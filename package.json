@@ -1,0 +1,23 @@
+{
+  "name": "productivity-screencast",
+  "version": "1.0.0",
+  "description": "A deck for my screencast about how I organize my personal projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "mdx-deck deck.mdx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenniferlynparsons/productivity-screencast.git"
+  },
+  "author": "Jennifer Lyn Parsons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenniferlynparsons/productivity-screencast/issues"
+  },
+  "homepage": "https://github.com/jenniferlynparsons/productivity-screencast#readme",
+  "devDependencies": {
+    "mdx-deck": "^3.0.13"
+  }
+}
